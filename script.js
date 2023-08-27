@@ -1,0 +1,1 @@
+import * as bootstrap from "https://cdn.skypack.dev/bootstrap@5.2.3";
